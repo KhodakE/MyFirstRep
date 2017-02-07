@@ -10,7 +10,8 @@ namespace MyFirstRep
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello2");
+            Console.WriteLine("HelloHAHAHlgbjldkbjvz");
+            Console.WriteLine("Haolllllloooooooo");
         }
     }
 }

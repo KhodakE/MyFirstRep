@@ -1,1 +1,2 @@
 c:\users\student.step\documents\visual studio 2015\Projects\MyFirstRep\MyFirstRep\bin\Debug\MyFirstRep.exe.config
+C:\Users\student.STEP\Source\Repos\MyFirstRep\MyFirstRep\bin\Debug\MyFirstRep.exe.config
